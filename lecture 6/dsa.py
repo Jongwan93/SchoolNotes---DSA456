@@ -76,11 +76,14 @@ hashMap.display()
 print(hashMap.get(8))
 
 # June 17th Monday midterm
-# theoretical questions. : explain something. definitions
-# analysis : 5 step analysis. function given and analysis. time complexity.
-#           some code will be given and fill in the empty lines
-#           OR code is given and debug it
-# coding : scenario is given and implement the code.
+# theoretical questions(5) : explain something. definitions
+# algorithm and analysis(20) : 5 step analysis. function given and analysis. time complexity. 4 functions.
+#                               some code will be given and fill in the empty lines
+#                               OR code is given and debug it (10)
+# coding(15) : scenario is given and implement the code.
 #           ex) insert a node in middle of linked-list
 #           1 recursion and 1 linked-list question
-# sortings
+# study sortings
+# go through lecture notes
+# write 5 step analysis
+# try linked-list question in leetcode
